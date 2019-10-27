@@ -1,0 +1,19 @@
+{
+  "name": "game.io",
+  "version": "1.0.0",
+  "description": "Представьте себе что у нас есть прямоугольное игровое поле, состоящее из ячеек. В каждой ячейке может находится один игровой элемент. При выборе любой из ячеек мы должны удалить из поля элемент и всю связанную группу таких же элементов (см. ниже). Как бы Вы реализовывали поиск элементов такой группы? Оформите решение задачи в виде кода.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al145/game.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al145/game.io/issues"
+  },
+  "homepage": "https://github.com/Al145/game.io#readme"
+}
